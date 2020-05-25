@@ -2,7 +2,8 @@
 Unique and useful PHP functions to copy paste into a global controller for your project.
 
 # #1
-Find and view an item of a table by just using the table name and id.
+Find and view an item of a table by just using the table name and id.  
+Also works with delete-like functions
 
 ```
 public function View($table, $id) {
